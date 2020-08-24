@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Phillip Musiime
 
+### About me
+- 🔭 I’m currently almost completing a software development course i undertook :muscle:...can't wait to start my career in tech :bowtie:
+- 🌱 My tech stacks are Ruby/Rails/React & Mongo/Express/React/Node...currently learning React/Redux and Loving it
+- 👯 I’m also looking to collaborate on a couple of open source projects.
+- 📫 How to reach me: [Portfolio](https://phillipug.github.io/), [LinkedIn](https://www.linkedin.com/in/phillip-musiime/), [Twitter](https://twitter.com/Phillip_Ug), [Gmail](phillipmusiime@gmail.com)
+
+⚡ **Fun fact:** You know those geeky scenes in the movies where some dude in a hoody hacks the FBI databases in 30 seconds? Yeah, thats who inspired me to learn software development hahaha :laughing:, imagine my shock when i realized how far apart what i was studying was. I've grown to love it now.
 <!--
 **PhillipUg/PhillipUg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
