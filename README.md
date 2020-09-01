@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Phillip Musiime
+### Hi there 👋
 
 ### About me
 - 🔭 I’m currently almost completing a software development course i undertook :muscle:...can't wait to start my career in tech :bowtie:
