@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to my Github profile
 ### About me
 - 🔭 I’m currently almost completing a software development course i undertook :muscle:...can't wait to start my career in tech :bowtie:
 - 🌱 My tech stacks are Ruby/Rails/React & Mongo/Express/React/Node...currently learning React/Redux and Loving it
