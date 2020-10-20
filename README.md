@@ -1,16 +1,6 @@
-### Hi there 👋, if you don't know already...
-I'm [Phillip Musiime](https://phillipug.github.io/), a Full Stack Developer 🚀 from Kampala, Uganda. 
-### About me
-- 🔭 I’m currently almost completing a software development course i undertook :muscle:...can't wait to start my career in tech :bowtie:
-- 👯 I’m also looking to collaborate on a couple of open source projects.
-
-⚡ **Fun fact:** You know those geeky scenes in the movies where some dude in a hoody hacks the FBI databases in 30 seconds? Yeah, thats who inspired me to learn software development hahaha :laughing:, imagine my shock when i realized how far apart what i was studying was. I've grown to love it now.
-
-
-<br>
-<br>
-
-
+![](https://komarev.com/ghpvc/?username=phillipug)
+### Hi there 👋...                                                            
+I'm [Phillip Musiime](https://phillipug.github.io/), a Full Stack Software Developer 🚀 from Kampala, Uganda. 
 
 ![Phillip's github stats](https://github-readme-stats.vercel.app/api?username=phillipug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 [![mostly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipug&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
