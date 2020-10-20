@@ -3,7 +3,6 @@
 I'm [Phillip Musiime](https://phillipug.github.io/), a Full Stack Software Developer 🚀 from Kampala, Uganda. 
 
 ![Phillip's github stats](https://github-readme-stats.vercel.app/api?username=phillipug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-[![mostly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipug&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
