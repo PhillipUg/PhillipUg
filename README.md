@@ -8,7 +8,7 @@
 
 
 
-<p align="center">
+<!--<p align="center">
     <img
        title="Open for job" height=32 width=500
        src="https://user-images.githubusercontent.com/60448833/96334840-64ea5500-107c-11eb-9f5f-730aae9728c0.png"> <br />
@@ -20,7 +20,7 @@
   Where i assist beginning software develpers, by:<br/>
   🌐 <b>Providing technical support through code reviews <br />🌐 Proposing improvements to code organization to improve code quality and overall performance <br />🌐 Providing advice and tips on how to maintain motivation to maintain longevity in the program
 </b>
-</p>
+</p> -->
 
 <br/>
 <br/>
