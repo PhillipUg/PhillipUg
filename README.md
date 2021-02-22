@@ -1,9 +1,5 @@
 <p align="center"><a href="https://twitter.com/Phillip_Ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/phillip-musiime" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@phillipmusiime" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  </p>
-  <br>
-  <br>
-  
-                                                            
+  </p>                                                       
  
 
 
@@ -21,9 +17,6 @@
   🌐 <b>Providing technical support through code reviews <br />🌐 Proposing improvements to code organization to improve code quality and overall performance <br />🌐 Providing advice and tips on how to maintain motivation to maintain longevity in the program
 </b>
 </p> -->
-
-<br/>
-<br/>
 
 [![Phillip's github stats](https://github-readme-stats.vercel.app/api?username=phillipug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
